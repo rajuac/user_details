@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 
 module WebhookJobs
   class UserDetailsNotification < ActiveJob::Base
